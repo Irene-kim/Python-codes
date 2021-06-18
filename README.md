@@ -1,2 +1,2 @@
 # Python-codes
-useful python codes for myself
+Documented in Wiki Page  
